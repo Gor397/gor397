@@ -1,151 +1,51 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,100:1f6feb&text=Gor%20Simonyan&fontAlign=50&fontAlignY=40&fontSize=55&fontColor=ffffff&desc=Python%20Developer%20•%20Automation%20Engineer&descAlign=50&descAlignY=60"/>
+# Gor Simonyan
 
-<br>
+**Software Engineer · Backend & Full-Stack · Systems & Networking**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Python+Automation+Engineer;Android+Developer+(Java);PyQt%2FPySide6+Desktop+Applications;Backend+Systems+%26+APIs;Linux+Enthusiast;Building+Useful+Software"/>
+Building software that connects services, devices, and people — from APIs and automation to real-time communications and mobile applications.
 
-<br>
+[![GitHub](https://img.shields.io/badge/GitHub-Gor397-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/Gor397)
+[![Email](https://img.shields.io/badge/Email-Contact-24292f?style=flat-square&logo=gmail&logoColor=white)](mailto:simonyan.gor.397@gmail.com)
+[![Location](https://img.shields.io/badge/Based_in-Armenia-24292f?style=flat-square)](https://github.com/Gor397)
 
 </div>
 
----
+### About
 
-## Languages
+I develop backend services, full-stack applications, and software that interfaces directly with hardware. My experience includes drone ground-control software, custom TCP/UDP communication protocols, real-time data pipelines, desktop/mobile apps, and automation tools.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+I care about clean architecture, reliability, security, and making software work beyond the prototype.
 
----
+### Languages & technologies
 
-## Frameworks & Tools
+**Languages** · Python · TypeScript · JavaScript · Rust · Java · Dart · C++ · C# · SQL  
+**Backend & data** · FastAPI · REST · WebSockets · Firebase · Cloudflare Workers · PostgreSQL/SQL · web scraping  
+**Systems & tooling** · TCP/UDP · custom protocols · Linux · Docker · Git · SSH · ROS 2  
+**Apps & ML** · Flutter · Android · PyQt/PySide6 · scikit-learn · OpenCV
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Android](https://img.shields.io/badge/Android_Development-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Web_Scraping](https://img.shields.io/badge/Web_Scraping-121212?style=for-the-badge)
+### Selected work
 
----
+| Project | Focus |
+| :-- | :-- |
+| **Drone ground-control systems** *(non-public work)* | Ground-control software, device integration, real-time telemetry and custom communication protocols. |
+| **[news_scraping](https://github.com/Gor397/news_scraping)** | Multi-source news scraping and data collection tooling. |
+| **[rsyncvsc](https://github.com/Gor397/rsyncvsc)** | VS Code extension for synchronizing remote workspaces over SSH/rsync. |
+| **[TransformingParking](https://github.com/Gor397/TransformingParking)** | Smart parking application connecting Android software with embedded hardware. |
 
-# GitHub Stats
+### Contributions & activity
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=gor397&theme=tokyonight&hide_border=true&background=FFFFFF00"/>
+<!-- All-time contributions, current streak, and longest streak. Automatically updated. -->
+[![Total contributions and GitHub streaks](https://streak-stats.demolab.com?user=Gor397&hide_border=true&theme=default&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Gor397?tab=overview)
+
+<!-- Contribution timeline; this service displays recent activity rather than a lifetime chart. -->
+[![GitHub contribution activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gor397&theme=default)](https://github.com/Gor397?tab=overview)
+
+[**2026 contributions**](https://github.com/Gor397?tab=overview&from=2026-01-01&to=2026-12-31) · [**Full GitHub activity**](https://github.com/Gor397?tab=overview)
 
 </div>
 
----
-
-# Activity Graph
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=gor397&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true"/>
-
-</div>
-
----
-
-# About Me
-
-- 💻 3+ years of coding experience
-- ⚡ Building automation systems and backend tools
-- 🖥️ Developing desktop apps with PyQt / PySide6
-- 📱 Android development with Java
-- 🌐 Working with APIs, scraping, databases, and system automation
-- 🐧 Linux enthusiast using Arch-based distributions
-- 📚 Interested in scalable systems, software engineering, and data-driven solutions
-
----
-
-# Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚗 Smart Parking System
-Flutter-based parking reservation platform with:
-- Firebase authentication
-- Reservation management
-- Interactive maps
-- Real-time updates
-- Payment integration
-
-</td>
-
-<td width="50%">
-
-### 🤖 Python Automation
-Automation tools for:
-- Web scraping
-- Browser automation
-- API integrations
-- Workflow optimization
-- Data processing
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🖥️ Desktop Applications
-Modern desktop apps built using:
-- PyQt / PySide6
-- Custom UI systems
-- Python backend integration
-
-</td>
-
-<td width="50%">
-
-### 📱 Android Applications
-Native Android apps using Java:
-- Java
-- Firebase integration
-- Authentication systems
-- Modern Android UI
-
-</td>
-</tr>
-</table>
-
-</div>
-
-
----
-
-# Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gor397)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gor-simonyan-69352b276)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simonyan.gor.397@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1f6feb,100:0d1117"/>
-
-</div>
+<sub>All-time contributions include qualifying commits, pull requests, issues and other GitHub activity; they are **not** the same as total commits. Private activity appears anonymously only when "Include private contributions" is enabled on GitHub. The timeline visual focuses on recent activity.</sub>
