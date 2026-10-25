@@ -38,14 +38,22 @@ I care about clean architecture, reliability, security, and making software work
 
 <div align="center">
 
-<!-- All-time contributions, current streak, and longest streak. Automatically updated. -->
-[![Total contributions and GitHub streaks](https://streak-stats.demolab.com?user=Gor397&hide_border=true&theme=default&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Gor397?tab=overview)
+<!-- Total qualifying contributions, across available GitHub history. No streak counts. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Gor397&amp;theme=dark&amp;hide_border=true&amp;hide_current_streak=true&amp;hide_longest_streak=true&amp;background=0D1117&amp;sideNums=E6EDF3&amp;sideLabels=8B949E" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Gor397&amp;theme=default&amp;hide_border=true&amp;hide_current_streak=true&amp;hide_longest_streak=true&amp;background=FFFFFF&amp;sideNums=24292F&amp;sideLabels=57606A" />
+  <img src="https://streak-stats.demolab.com?user=Gor397&amp;theme=default&amp;hide_border=true&amp;hide_current_streak=true&amp;hide_longest_streak=true&amp;background=FFFFFF" alt="Gor's total qualifying GitHub contributions" width="480" />
+</picture>
 
-<!-- Contribution timeline; this service displays recent activity rather than a lifetime chart. -->
-[![GitHub contribution activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gor397&theme=default)](https://github.com/Gor397?tab=overview)
+<!-- Keep the contribution timeline. Match the viewer's light/dark appearance. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gor397&amp;theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gor397&amp;theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gor397&amp;theme=github" alt="Gor's GitHub contribution activity timeline" width="750" />
+</picture>
 
-[**2026 contributions**](https://github.com/Gor397?tab=overview&from=2026-01-01&to=2026-12-31) · [**Full GitHub activity**](https://github.com/Gor397?tab=overview)
+[**2026 contribution calendar**](https://github.com/Gor397?tab=overview&from=2026-01-01&to=2026-12-31) · [**Contribution history**](https://github.com/Gor397?tab=overview)
 
 </div>
 
-<sub>All-time contributions include qualifying commits, pull requests, issues and other GitHub activity; they are **not** the same as total commits. Private activity appears anonymously only when "Include private contributions" is enabled on GitHub. The timeline visual focuses on recent activity.</sub>
+<sub>Contribution totals are GitHub's qualifying activity, not a count of every commit across all branches and repositories. Private work is shown only to the extent supported by GitHub's visibility settings and third-party statistics services. The timeline summarizes recent activity.</sub>
